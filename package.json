@@ -1,0 +1,31 @@
+{
+  "name": "deisrc",
+  "version": "1.0.0",
+  "description": "Switch between different .deis/client.json with ease and grace",
+  "preferGlobal": true,
+  "bin": {
+    "npmrc": "./deisrc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/npmrc.git"
+  },
+  "keywords": [
+    "deis",
+    "utility",
+    "shell"
+  ],
+  "author": "Loic Mahieu <mahieuloic@gmail.com> (http://igloo.be/)",
+  "license": "BSD",
+  "devDependencies": {
+    "rimraf": "*",
+    "tape": "*",
+    "xtend": "*"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
