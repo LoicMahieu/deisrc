@@ -3,6 +3,12 @@ deisrc
 
 Switch between different .deis/client.json files with ease and grace.
 
+Inspiration
+--------
+
+This module is totally inspired (and mainly copied) from excellent [deoxxa/npmrc](https://github.com/deoxxa/npmrc).
+
+
 Overview
 --------
 
