@@ -4,11 +4,11 @@
   "description": "Switch between different .deis/client.json with ease and grace",
   "preferGlobal": true,
   "bin": {
-    "npmrc": "./deisrc.js"
+    "deisrc": "./deisrc.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/deoxxa/npmrc.git"
+    "url": "git://github.com/loicmahieu/deisrc.git"
   },
   "keywords": [
     "deis",
