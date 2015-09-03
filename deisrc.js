@@ -229,7 +229,7 @@ function createNew () {
     return process.exit(1)
   }
 
-  fs.writeFileSync(c, '')
+  fs.writeFileSync(c, '{}')
 }
 
 
