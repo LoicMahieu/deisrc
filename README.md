@@ -1,6 +1,8 @@
 deisrc
 =====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LoicMahieu/deisrc.svg)](https://greenkeeper.io/)
+
 Switch between different .deis/client.json files with ease and grace.
 
 Inspiration
