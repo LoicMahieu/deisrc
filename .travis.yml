@@ -6,3 +6,4 @@ node_js:
   - iojs-v1
   - iojs-v2
   - iojs
+  - 10
